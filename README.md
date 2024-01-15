@@ -1,4 +1,4 @@
-oneClickConverter is made, because the videos I sent to Telegram on PC, are sent as is, without compression. I need quicker solution then HandBrake, so I made scripts, where I put all my knowledge of conversion, to combine speed/quality/size for given scenarios to output optimal results for each scenario.
+oneClickConverter is made, because the videos I sent to Telegram on PC, are sent as is, without compression. I need quicker solution then HandBrake, so I made scripts, where I put all my knowledge of conversion, to combine speed/quality/size to output optimal results for each scenario.
 
 To make it work, do the following:
   1. create "bin" folder
