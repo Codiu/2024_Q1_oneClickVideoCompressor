@@ -5,8 +5,8 @@ set "sourceFolder=%cd%"
 
 set "destinationFolder=%cd%"
 set "binFolder=%cd%\bin"
-set "presetName=YT-TelegramAV"
-set "presetFileName=src\YT-TelegramAV.json"
+set "presetName=YT-TelegramH265"
+set "presetFileName=src\YT-TelegramH265.json"
 
 for %%i in ("%sourceFolder%\*.mp4") do (
     if not "%%~xi"=="" (
